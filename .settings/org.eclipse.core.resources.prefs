@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/gestion/cinema/service/Cinema.java=UTF-8
+encoding//src/gestion/cinema/service/ControllerService.java=UTF-8
+encoding//src/gestion/cinema/service/ControllerServicePortBindingStub.java=UTF-8
+encoding//src/gestion/cinema/service/ControllerServiceService.java=UTF-8
+encoding//src/gestion/cinema/service/ControllerServiceServiceLocator.java=UTF-8
+encoding//src/gestion/cinema/service/Film.java=UTF-8
+encoding//src/gestion/cinema/service/Salle.java=UTF-8
+encoding//src/gestion/cinema/service/Ticket.java=UTF-8
+encoding//src/gestion/cinema/service/Utilisateur.java=UTF-8
